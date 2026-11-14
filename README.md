@@ -27,6 +27,11 @@ gh attestation verify bitg-0.4.0-x64.msi --repo dtwinuz/bitg
 Updated daily by a GitHub Action in this repository.
 
 <!-- live:start -->
+| Repository | Latest release | Published |
+|---|---|---|
+| [dtwinuz/bitg](https://github.com/dtwinuz/bitg) | [v0.4.0](https://github.com/dtwinuz/bitg/releases/tag/v0.4.0) | 2026-11-13 |
+
+Public merged pull requests: **2** · Pull requests reviewed: **19**
 <!-- live:end -->
 
 ---
